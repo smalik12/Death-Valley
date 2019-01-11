@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b1ceb5ea84689421f9a843bc8aa598dd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - healthDrop: {fileID: 1685313458034328, guid: b0854e69933a04e229b92684b21cac50,
+      type: 2}
+  - ammoDrop: {fileID: 1635800424527894, guid: fc0c6efe39c9748d6a5246425e420337, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
